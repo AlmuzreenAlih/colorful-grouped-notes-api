@@ -4,10 +4,18 @@ header('Access-Control-Allow-Origin: *');
 header("Content-Type: text/plain");
 
 include('../connection/config.php');
-if (1) {
+if (isset($_POST['email']) && isset($_POST['passwords'])) {
 	
-	$email = "admin@gmail.com";
-	$password = "admin";
+	// $email = "admin@gmail.com";
+	// $password = "admin";
+
+    $email = $_POST['email'];
+    $password = $_POST['password'];
+
+    $string = $email." ".$password;
+    $myfile = fopen("varDump.txt", "w") or die("Unable to open file!");
+	fwrite($myfile, $string);
+	fclose($myfile);
 
     $stmt = $conn->prepare("SELECT * FROM users WHERE email=?");
     $stmt->execute([$email]);
@@ -15,31 +23,15 @@ if (1) {
     if ($stmt->rowCount() === 1) {
         $user = $stmt->fetch();     
 
-        // $user_id = $user['id'];
-        // $user_email = $user['email'];
-        // $user_password = $user['password'];
-        // $user_full_name = $user['full_name'];
-
         if ($email === $user['email']) {
             if (password_verify($password, $user['password'])) {
-                $_SESSION['logged_id'] = $user['id'];
-                $_SESSION['logged_email'] = $user['email'];
-                $_SESSION['logged_full_name'] = $user['full_name'];
-                
-                $myObj = new StdClass;
-                $myObj->id = $user['id'];
-                $myObj->email = $user['email'];
-                $myObj->full_name = $user['full_name'];
-                
-                $myJSON = json_encode($myObj);
-                echo $myJSON;
-
+                $_SESSION['logged_in'] = "true";
+                echo "true";
             }else {
-                echo password_hash("admin", PASSWORD_DEFAULT);
-                // header("Location: login.php?error=Incorect User name or password&email=$email");
+                echo "false";
             }
         }else {
-            echo "what1";
+            echo "false";
             // header("Location: login.php?error=Incorect User name or password&email=$email");
         }
     }else {
