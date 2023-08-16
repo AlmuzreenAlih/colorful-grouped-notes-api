@@ -1,0 +1,267 @@
+4:44 AM 17fd3f78972166ac136395d2c8289d4:46 AM 17fd3f78972166ac136395d2c8289d4:47 AM 17fd3f78972166ac136395d2c8289d\n4:47 AM 17fd3f78972166ac136395d2c8289d/n4:48 AM 17fd3f78972166ac136395d2c8289d
+4:49 AM 17fd3f78972166ac136395d2c8289d
+4:49 AM 17fd3f78972166ac136395d2c8289d
+4:51 AM - 17fd3f78972166ac136395d2c8289d
+4:51 AM - 17fd3f78972166ac136395d2c8289d
+4:52 AM - 17fd3f78972166ac136395d2c8289d
+4:53:58 AM - 17fd3f78972166ac136395d2c8289d
+4:54 20 20Europe/Berlin2023-01-03T04:54:20+01:00202310320  AM - 17fd3f78972166ac136395d2c8289d
+4:54  AM - 17fd3f78972166ac136395d2c8289d
+3:27  AM - 
+4:27  AM - 
+4:33  AM - 
+4:33  AM - 271cbb8067802e9e6caac8af33d4e9
+5:10  AM - 271cbb8067802e9e6caac8af33d4e9
+5:18  AM - 271cbb8067802e9e6caac8af33d4e9
+5:19  AM - 271cbb8067802e9e6caac8af33d4e9
+5:19  AM - 271cbb8067802e9e6caac8af33d4e9
+2:50  PM - 
+2:50  PM - 07277f5382cf4857defc54d3efd30f
+3:01  PM - 07277f5382cf4857defc54d3efd30f
+3:02  PM - 07277f5382cf4857defc54d3efd30f
+1:09  PM - Connection failed : SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+<br />
+<b>Warning</b>:  Undefined variable $conn in <b>C:\xampp\htdocs\cgapi\auth\login.php</b> on line <b>37</b><br />
+<br />
+<b>Fatal error</b>:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\cgapi\auth\login.php:37
+Stack trace:
+#0 {main}
+  thrown in <b>C:\xampp\htdocs\cgapi\auth\login.php</b> on line <b>37</b><br />
+1:09  PM - Connection failed : SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+<br />
+<b>Warning</b>:  Undefined variable $conn in <b>C:\xampp\htdocs\cgapi\auth\login.php</b> on line <b>37</b><br />
+<br />
+<b>Fatal error</b>:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\cgapi\auth\login.php:37
+Stack trace:
+#0 {main}
+  thrown in <b>C:\xampp\htdocs\cgapi\auth\login.php</b> on line <b>37</b><br />
+1:09  PM - Connection failed : SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+<br />
+<b>Warning</b>:  Undefined variable $conn in <b>C:\xampp\htdocs\cgapi\auth\login.php</b> on line <b>37</b><br />
+<br />
+<b>Fatal error</b>:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\cgapi\auth\login.php:37
+Stack trace:
+#0 {main}
+  thrown in <b>C:\xampp\htdocs\cgapi\auth\login.php</b> on line <b>37</b><br />
+1:09  PM - Connection failed : SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+<br />
+<b>Warning</b>:  Undefined variable $conn in <b>C:\xampp\htdocs\cgapi\auth\login.php</b> on line <b>37</b><br />
+<br />
+<b>Fatal error</b>:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\cgapi\auth\login.php:37
+Stack trace:
+#0 {main}
+  thrown in <b>C:\xampp\htdocs\cgapi\auth\login.php</b> on line <b>37</b><br />
+1:09  PM - Connection failed : SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+<br />
+<b>Warning</b>:  Undefined variable $conn in <b>C:\xampp\htdocs\cgapi\auth\login.php</b> on line <b>37</b><br />
+<br />
+<b>Fatal error</b>:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\cgapi\auth\login.php:37
+Stack trace:
+#0 {main}
+  thrown in <b>C:\xampp\htdocs\cgapi\auth\login.php</b> on line <b>37</b><br />
+1:09  PM - Connection failed : SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+<br />
+<b>Warning</b>:  Undefined variable $conn in <b>C:\xampp\htdocs\cgapi\auth\login.php</b> on line <b>37</b><br />
+<br />
+<b>Fatal error</b>:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\cgapi\auth\login.php:37
+Stack trace:
+#0 {main}
+  thrown in <b>C:\xampp\htdocs\cgapi\auth\login.php</b> on line <b>37</b><br />
+1:09  PM - b4b1b62c277dce7e2129372a6033e8
+1:27  PM - b4b1b62c277dce7e2129372a6033e8
+1:30  PM - b4b1b62c277dce7e2129372a6033e8
+1:34  PM - b4b1b62c277dce7e2129372a6033e8
+1:36  PM - b4b1b62c277dce7e2129372a6033e8
+1:37  PM - b4b1b62c277dce7e2129372a6033e8
+1:39  PM - b4b1b62c277dce7e2129372a6033e8
+1:44  PM - b4b1b62c277dce7e2129372a6033e8
+1:44  PM - b4b1b62c277dce7e2129372a6033e8
+1:45  PM - b4b1b62c277dce7e2129372a6033e8
+1:45  PM - b4b1b62c277dce7e2129372a6033e8
+1:45  PM - b4b1b62c277dce7e2129372a6033e8
+1:46  PM - b4b1b62c277dce7e2129372a6033e8
+1:46  PM - b4b1b62c277dce7e2129372a6033e8
+1:46  PM - b4b1b62c277dce7e2129372a6033e8
+1:46  PM - b4b1b62c277dce7e2129372a6033e8
+2:15  PM - b4b1b62c277dce7e2129372a6033e8
+8:59  AM - 
+9:00  AM - fea2796be0e70f03876f7595e1b52a
+9:07  AM - fea2796be0e70f03876f7595e1b52a
+9:08  AM - fea2796be0e70f03876f7595e1b52a
+9:31  AM - fea2796be0e70f03876f7595e1b52a
+9:38  AM - fea2796be0e70f03876f7595e1b52a
+9:39  AM - fea2796be0e70f03876f7595e1b52a
+9:42  AM - fea2796be0e70f03876f7595e1b52a
+9:43  AM - fea2796be0e70f03876f7595e1b52a
+9:45  AM - fea2796be0e70f03876f7595e1b52a
+10:16  AM - 
+10:16  AM - a1ec14dc54a330e385725451c5094f
+10:17  AM - a1ec14dc54a330e385725451c5094f
+10:25  AM - a1ec14dc54a330e385725451c5094f
+10:30  AM - a1ec14dc54a330e385725451c5094f
+10:33  AM - a1ec14dc54a330e385725451c5094f
+10:33  AM - a1ec14dc54a330e385725451c5094f
+8:05  AM - 
+8:05  AM - e897923361e507ffd4f912281ff2c1
+8:06  AM - e897923361e507ffd4f912281ff2c1
+8:06  AM - e897923361e507ffd4f912281ff2c1
+8:06  AM - e897923361e507ffd4f912281ff2c1
+8:07  AM - e897923361e507ffd4f912281ff2c1
+8:07  AM - e897923361e507ffd4f912281ff2c1
+8:08  AM - e897923361e507ffd4f912281ff2c1
+8:08  AM - e897923361e507ffd4f912281ff2c1
+8:08  AM - e897923361e507ffd4f912281ff2c1
+8:08  AM - e897923361e507ffd4f912281ff2c1
+8:08  AM - e897923361e507ffd4f912281ff2c1
+8:08  AM - e897923361e507ffd4f912281ff2c1
+8:08  AM - e897923361e507ffd4f912281ff2c1
+8:10  AM - e897923361e507ffd4f912281ff2c1
+8:10  AM - e897923361e507ffd4f912281ff2c1
+8:10  AM - e897923361e507ffd4f912281ff2c1
+8:11  AM - e897923361e507ffd4f912281ff2c1
+8:11  AM - e897923361e507ffd4f912281ff2c1
+8:12  AM - e897923361e507ffd4f912281ff2c1
+8:12  AM - e897923361e507ffd4f912281ff2c1
+8:15  AM - e897923361e507ffd4f912281ff2c1
+8:15  AM - e897923361e507ffd4f912281ff2c1
+8:15  AM - e897923361e507ffd4f912281ff2c1
+8:16  AM - e897923361e507ffd4f912281ff2c1
+8:16  AM - e897923361e507ffd4f912281ff2c1
+8:22  AM - e897923361e507ffd4f912281ff2c1
+8:22  AM - e897923361e507ffd4f912281ff2c1
+8:26  AM - e897923361e507ffd4f912281ff2c1
+8:26  AM - e897923361e507ffd4f912281ff2c1
+8:27  AM - e897923361e507ffd4f912281ff2c1
+8:27  AM - e897923361e507ffd4f912281ff2c1
+8:28  AM - e897923361e507ffd4f912281ff2c1
+8:29  AM - e897923361e507ffd4f912281ff2c1
+8:30  AM - e897923361e507ffd4f912281ff2c1
+8:31  AM - e897923361e507ffd4f912281ff2c1
+8:31  AM - e897923361e507ffd4f912281ff2c1
+8:31  AM - e897923361e507ffd4f912281ff2c1
+8:31  AM - e897923361e507ffd4f912281ff2c1
+8:31  AM - e897923361e507ffd4f912281ff2c1
+8:32  AM - e897923361e507ffd4f912281ff2c1
+8:32  AM - e897923361e507ffd4f912281ff2c1
+8:32  AM - e897923361e507ffd4f912281ff2c1
+8:34  AM - e897923361e507ffd4f912281ff2c1
+8:35  AM - e897923361e507ffd4f912281ff2c1
+8:37  AM - e897923361e507ffd4f912281ff2c1
+8:37  AM - e897923361e507ffd4f912281ff2c1
+8:37  AM - e897923361e507ffd4f912281ff2c1
+8:37  AM - e897923361e507ffd4f912281ff2c1
+8:38  AM - e897923361e507ffd4f912281ff2c1
+8:38  AM - e897923361e507ffd4f912281ff2c1
+8:38  AM - e897923361e507ffd4f912281ff2c1
+8:38  AM - e897923361e507ffd4f912281ff2c1
+8:38  AM - e897923361e507ffd4f912281ff2c1
+8:39  AM - e897923361e507ffd4f912281ff2c1
+8:39  AM - e897923361e507ffd4f912281ff2c1
+8:40  AM - e897923361e507ffd4f912281ff2c1
+8:40  AM - e897923361e507ffd4f912281ff2c1
+8:40  AM - e897923361e507ffd4f912281ff2c1
+8:42  AM - e897923361e507ffd4f912281ff2c1
+8:42  AM - e897923361e507ffd4f912281ff2c1
+8:43  AM - e897923361e507ffd4f912281ff2c1
+8:43  AM - e897923361e507ffd4f912281ff2c1
+8:43  AM - e897923361e507ffd4f912281ff2c1
+8:43  AM - e897923361e507ffd4f912281ff2c1
+8:47  AM - e897923361e507ffd4f912281ff2c1
+8:47  AM - e897923361e507ffd4f912281ff2c1
+8:58  AM - e897923361e507ffd4f912281ff2c1
+8:58  AM - e897923361e507ffd4f912281ff2c1
+8:59  AM - e897923361e507ffd4f912281ff2c1
+8:59  AM - e897923361e507ffd4f912281ff2c1
+9:00  AM - e897923361e507ffd4f912281ff2c1
+9:01  AM - e897923361e507ffd4f912281ff2c1
+9:04  AM - e897923361e507ffd4f912281ff2c1
+9:04  AM - e897923361e507ffd4f912281ff2c1
+9:04  AM - e897923361e507ffd4f912281ff2c1
+9:04  AM - e897923361e507ffd4f912281ff2c1
+9:04  AM - e897923361e507ffd4f912281ff2c1
+9:05  AM - e897923361e507ffd4f912281ff2c1
+9:05  AM - e897923361e507ffd4f912281ff2c1
+9:05  AM - e897923361e507ffd4f912281ff2c1
+9:05  AM - e897923361e507ffd4f912281ff2c1
+9:05  AM - e897923361e507ffd4f912281ff2c1
+9:05  AM - e897923361e507ffd4f912281ff2c1
+9:05  AM - e897923361e507ffd4f912281ff2c1
+9:08  AM - e897923361e507ffd4f912281ff2c1
+9:08  AM - e897923361e507ffd4f912281ff2c1
+9:08  AM - e897923361e507ffd4f912281ff2c1
+9:08  AM - e897923361e507ffd4f912281ff2c1
+9:12  AM - e897923361e507ffd4f912281ff2c1
+9:12  AM - e897923361e507ffd4f912281ff2c1
+9:21  AM - e897923361e507ffd4f912281ff2c1
+2:13  PM - e897923361e507ffd4f912281ff2c1
+2:13  PM - e897923361e507ffd4f912281ff2c1
+2:14  PM - e897923361e507ffd4f912281ff2c1
+2:15  PM - e897923361e507ffd4f912281ff2c1
+2:19  PM - e897923361e507ffd4f912281ff2c1
+2:19  PM - e897923361e507ffd4f912281ff2c1
+2:22  PM - e897923361e507ffd4f912281ff2c1
+2:22  PM - e897923361e507ffd4f912281ff2c1
+2:23  PM - e897923361e507ffd4f912281ff2c1
+2:53  PM - e897923361e507ffd4f912281ff2c1
+2:54  PM - e897923361e507ffd4f912281ff2c1
+2:56  PM - e897923361e507ffd4f912281ff2c1
+2:56  PM - e897923361e507ffd4f912281ff2c1
+2:56  PM - e897923361e507ffd4f912281ff2c1
+2:58  PM - e897923361e507ffd4f912281ff2c1
+2:59  PM - e897923361e507ffd4f912281ff2c1
+3:09  AM - 52a318601a8d93ad530c7209483cde
+3:09  AM - 52a318601a8d93ad530c7209483cde
+3:09  AM - 52a318601a8d93ad530c7209483cde
+3:09  AM - 
+3:15  AM - f714148f84ceeaed689ae2abd393bc
+3:17  AM - f714148f84ceeaed689ae2abd393bc
+3:19  AM - f714148f84ceeaed689ae2abd393bc
+3:24  AM - f714148f84ceeaed689ae2abd393bc
+3:26  AM - f714148f84ceeaed689ae2abd393bc
+3:27  AM - f714148f84ceeaed689ae2abd393bc
+3:29  AM - f714148f84ceeaed689ae2abd393bc
+3:30  AM - f714148f84ceeaed689ae2abd393bc
+3:30  AM - f714148f84ceeaed689ae2abd393bc
+3:30  AM - f714148f84ceeaed689ae2abd393bc
+3:32  AM - f714148f84ceeaed689ae2abd393bc
+3:33  AM - f714148f84ceeaed689ae2abd393bc
+3:34  AM - f714148f84ceeaed689ae2abd393bc
+3:35  AM - f714148f84ceeaed689ae2abd393bc
+3:36  AM - f714148f84ceeaed689ae2abd393bc
+3:37  AM - f714148f84ceeaed689ae2abd393bc
+3:40  AM - f714148f84ceeaed689ae2abd393bc
+3:42  AM - f714148f84ceeaed689ae2abd393bc
+3:43  AM - f714148f84ceeaed689ae2abd393bc
+3:43  AM - f714148f84ceeaed689ae2abd393bc
+3:44  AM - 
+3:46  AM - 87634d5cb0a0bb106487f61322f75a
+3:46  AM - 
+3:47  AM - 7e81ee15bc1babc6bece8e7f8ab393
+3:47  AM - 
+3:48  AM - 3f8b3bc4b8b48e02ad493c7721f1dd
+3:53  AM - 3f8b3bc4b8b48e02ad493c7721f1dd
+4:00  AM - 3f8b3bc4b8b48e02ad493c7721f1dd
+4:00  AM - 3f8b3bc4b8b48e02ad493c7721f1dd
+4:02  AM - 3f8b3bc4b8b48e02ad493c7721f1dd
+4:02  AM - 3f8b3bc4b8b48e02ad493c7721f1dd
+4:02  AM - 3f8b3bc4b8b48e02ad493c7721f1dd
+4:02  AM - 3f8b3bc4b8b48e02ad493c7721f1dd
+4:02  AM - 3f8b3bc4b8b48e02ad493c7721f1dd
+4:03  AM - 3f8b3bc4b8b48e02ad493c7721f1dd
+6:00  AM - 3f8b3bc4b8b48e02ad493c7721f1dd
+6:14  AM - 3f8b3bc4b8b48e02ad493c7721f1dd
+6:14  AM - 3d74cb26a72f763db694aeb441f170
+6:59  AM - 3d74cb26a72f763db694aeb441f170
+7:00  AM - 3d74cb26a72f763db694aeb441f170
+7:01  AM - 3d74cb26a72f763db694aeb441f170
+7:01  AM - 3d74cb26a72f763db694aeb441f170
+7:01  AM - 3d74cb26a72f763db694aeb441f170
+7:01  AM - 3d74cb26a72f763db694aeb441f170
+9:48  AM - 3d74cb26a72f763db694aeb441f170
+9:48  AM - 3d74cb26a72f763db694aeb441f170
+9:50  AM - 3d74cb26a72f763db694aeb441f170
+9:54  AM - 3d74cb26a72f763db694aeb441f170
+9:55  AM - 3d74cb26a72f763db694aeb441f170
+9:55  AM - aLorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit sed quidem minima magnam laudantium ad qui alias vel voluptates iste, quod reprehenderit architecto ipsum quibusdam quisquam officiis omnis rem! Ab?
+9:55  AM - 3d74cb26a72f763db694aeb441f170
+9:55  AM - aLorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit sed quidem minima magnam laudantium ad qui alias vel voluptates iste, quod reprehenderit architecto ipsum quibusdam quisquam officiis omnis rem! Ab?
