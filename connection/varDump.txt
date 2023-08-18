@@ -265,3 +265,269 @@ Stack trace:
 9:55  AM - aLorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit sed quidem minima magnam laudantium ad qui alias vel voluptates iste, quod reprehenderit architecto ipsum quibusdam quisquam officiis omnis rem! Ab?
 9:55  AM - 3d74cb26a72f763db694aeb441f170
 9:55  AM - aLorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit sed quidem minima magnam laudantium ad qui alias vel voluptates iste, quod reprehenderit architecto ipsum quibusdam quisquam officiis omnis rem! Ab?
+10:19  AM - 3d74cb26a72f763db694aeb441f170
+10:19  AM - wow
+10:20  AM - wow
+10:35  AM - 3d74cb26a72f763db694aeb441f170
+10:35  AM - 3d74cb26a72f763db694aeb441f170
+10:35  AM - 3d74cb26a72f763db694aeb441f170
+12:10  PM - 3d74cb26a72f763db694aeb441f170
+12:10  PM - wow
+12:10  PM - 3d74cb26a72f763db694aeb441f170
+12:10  PM - 3d74cb26a72f763db694aeb441f170
+12:10  PM - wow
+12:12  PM - 3d74cb26a72f763db694aeb441f170
+12:12  PM - wow
+12:12  PM - 3d74cb26a72f763db694aeb441f170
+12:13  PM - Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit sed quidem minima magnam laudantium ad qui alias vel voluptates iste, quod reprehenderit architecto ipsum quibusdam quisquam officiis omnis rem! Ab?
+12:13  PM - 3d74cb26a72f763db694aeb441f170
+12:13  PM - Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit sed quidem minima magnam laudantium ad qui alias vel voluptates iste, quod reprehenderit architecto ipsum quibusdam quisquam officiis omnis rem! Ab?
+12:13  PM - 3d74cb26a72f763db694aeb441f170
+12:14  PM - Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit sed quidem minima magnam laudantium ad qui alias vel voluptates iste, quod reprehenderit architecto ipsum quibusdam quisquam officiis omnis rem! Ab?
+12:14  PM - 3d74cb26a72f763db694aeb441f170
+12:14  PM - wow
+1:56  PM - Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit sed quidem minima magnam laudantium ad qui alias vel voluptates iste, quod reprehenderit architecto ipsum quibusdam quisquam officiis omnis rem! Ab?
+1:56  PM - Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit sed quidem minima magnam laudantium ad qui alias vel voluptates iste, quod reprehenderit architecto ipsum quibusdam quisquam officiis omnis rem! Ab?
+1:56  PM - Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit sed quidem minima magnam laudantium ad qui alias vel voluptates iste, quod reprehenderit architecto ipsum quibusdam quisquam officiis omnis rem! Ab?
+2:14  PM - 3d74cb26a72f763db694aeb441f170
+2:14  PM - wow
+2:14  PM - 3d74cb26a72f763db694aeb441f170
+2:14  PM - wow
+2:14  PM - 3d74cb26a72f763db694aeb441f170
+7:35  AM - 7b70e6be2a55ea140d99436ea03d67
+7:44  AM - 7b70e6be2a55ea140d99436ea03d67
+7:44  AM - 7b70e6be2a55ea140d99436ea03d67
+7:45  AM - 7b70e6be2a55ea140d99436ea03d67
+7:49  AM - 7b70e6be2a55ea140d99436ea03d67
+7:50  AM - 7b70e6be2a55ea140d99436ea03d67
+7:51  AM - 7b70e6be2a55ea140d99436ea03d67
+7:52  AM - l 
+7:53  AM - ld 
+7:54  AM - 7b70e6be2a55ea140d99436ea03d67
+7:54  AM - lds 
+7:54  AM - lds\ 
+7:54  AM - lds 
+7:55  AM - 7b70e6be2a55ea140d99436ea03d67
+7:55  AM - ldss 
+7:55  AM - ldssd haha
+7:56  AM - ldssds haha
+7:56  AM - 7b70e6be2a55ea140d99436ea03d67
+7:56  AM - ldssdss haha
+7:57  AM - 7b70e6be2a55ea140d99436ea03d67
+7:57  AM - ldssdssx haha
+8:29  AM - ldssdssxd tokenSavedhaha
+8:29  AM - haha 
+7b70e6be2a55ea140d99436ea03d67haha
+8:30  AM - hahas 
+7b70e6be2a55ea140d99436ea03d67haha
+8:30  AM - 7b70e6be2a55ea140d99436ea03d67
+8:31  AM - hahass 7b70e6be2a55ea140d99436ea03d67haha
+8:50  AM - hahass 7b70e6be2a55ea140d99436ea03d67haha
+9:16  AM - 7b70e6be2a55ea140d99436ea03d67
+9:17  AM - 7b70e6be2a55ea140d99436ea03d67
+9:21  AM - hahassffsgff 7b70e6be2a55ea140d99436ea03d67haha
+9:21  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:22  AM - hahassffsgffj 7b70e6be2a55ea140d99436ea03d67haha
+9:22  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:24  AM - 7b70e6be2a55ea140d99436ea03d67
+9:24  AM - hahassffsgffjg 7b70e6be2a55ea140d99436ea03d67haha
+9:24  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:25  AM - 7b70e6be2a55ea140d99436ea03d67
+9:25  AM - hahassffsgffjgu 7b70e6be2a55ea140d99436ea03d67haha
+9:25  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:26  AM - 7b70e6be2a55ea140d99436ea03d67
+9:26  AM - hahassffsgffjguf 7b70e6be2a55ea140d99436ea03d67haha
+9:26  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:28  AM - hahassffsgffjgufh 7b70e6be2a55ea140d99436ea03d67haha
+9:28  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:28  AM - 7b70e6be2a55ea140d99436ea03d67
+9:28  AM - hahassffsgffjgufhf 7b70e6be2a55ea140d99436ea03d67haha
+9:28  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:29  AM - 7b70e6be2a55ea140d99436ea03d67
+9:30  AM - 7b70e6be2a55ea140d99436ea03d67
+9:31  AM - 7b70e6be2a55ea140d99436ea03d67
+9:31  AM - hahassffsgffjgufhffdgfd 7b70e6be2a55ea140d99436ea03d67haha
+9:31  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:31  AM - is it 1
+9:32  AM - hahassffsgffjgufhffdgfdf 7b70e6be2a55ea140d99436ea03d67haha
+9:32  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:32  AM - is it 1
+9:33  AM - hahassffsgffjgufhffdgfdfd 7b70e6be2a55ea140d99436ea03d67haha
+9:33  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:33  AM - is it 1
+9:34  AM - hahassffsgffjgufhffdgfdfdhg 7b70e6be2a55ea140d99436ea03d67haha
+9:34  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:34  AM - is it 1
+9:34  AM - hahassffsgffjgufhfffgffgdgfdfdhg 7b70e6be2a55ea140d99436ea03d67haha
+9:34  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:34  AM - falseis it 1
+9:38  AM - 7b70e6be2a55ea140d99436ea03d67
+9:38  AM - hahassffsgffjgufhfffgffgdgfdfdhgghjgh 7b70e6be2a55ea140d99436ea03d67haha
+9:38  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:38  AM - 1is it 1
+9:41  AM - hahassffsgffjgufhfffgffgdgfdfdhgghjghfd 7b70e6be2a55ea140d99436ea03d67haha
+9:41  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:41  AM - 1is it 1
+9:41  AM - hahassffsgffjgufhfffgffgdgfdfdhgghjghfdfg 7b70e6be2a55ea140d99436ea03d67haha
+9:41  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:41  AM - 1is it 1
+9:41  AM - 7b70e6be2a55ea140d99436ea03d67
+9:42  AM - 7b70e6be2a55ea140d99436ea03d67
+9:42  AM - wowds 7b70e6be2a55ea140d99436ea03d67haha
+9:42  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:42  AM - 1is it 1
+9:42  AM - 7b70e6be2a55ea140d99436ea03d67
+9:46  AM - 7b70e6be2a55ea140d99436ea03d67
+9:47  AM - wowdsdfhhg 7b70e6be2a55ea140d99436ea03d67haha
+9:47  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:47  AM - 1is it 1
+9:47  AM - wowdsdfhhgg 7b70e6be2a55ea140d99436ea03d67haha
+9:47  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:47  AM - 1is it 1
+9:48  AM - 7b70e6be2a55ea140d99436ea03d67
+9:48  AM - wowdsdfhhggfdhgsfd 7b70e6be2a55ea140d99436ea03d67haha
+9:48  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:48  AM - 1is it 1
+9:49  AM - 7b70e6be2a55ea140d99436ea03d67
+9:49  AM - hahassffsgffjgufhfffgffgdgfdfdhgghjghfdfgdf 7b70e6be2a55ea140d99436ea03d67haha
+9:49  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:49  AM - 1is it 1
+9:49  AM - 7b70e6be2a55ea140d99436ea03d67
+9:49  AM - wowdsdfhhggfdhgsdfd 7b70e6be2a55ea140d99436ea03d67haha
+9:49  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:49  AM - 1is it 1
+9:50  AM - hahassffsgffjgufhfffgffgdgfdfdhgghjghfdfgf 7b70e6be2a55ea140d99436ea03d67haha
+9:50  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:50  AM - 1is it 1
+9:50  AM - 7b70e6be2a55ea140d99436ea03d67
+9:50  AM - hahassffsgffjgufhfffgffgdgfdfdhgghjghfdfgf 7b70e6be2a55ea140d99436ea03d67haha
+9:50  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:50  AM - 1is it 1
+9:51  AM - 7b70e6be2a55ea140d99436ea03d67
+9:51  AM - hahassffsgffjgufhfffgffgdgfdfdhgghjghfdfgdf 7b70e6be2a55ea140d99436ea03d67haha
+9:51  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:51  AM - 1is it 1
+9:52  AM - 7b70e6be2a55ea140d99436ea03d67
+9:52  AM - hahassffsgffjgufhfffgffgdgfdfdhgghjghfdfgdf 7b70e6be2a55ea140d99436ea03d67haha
+9:52  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:52  AM - 1is it 1
+9:52  AM - 1wey1
+9:53  AM - wowdsdfhhggfdhgsdfdd 7b70e6be2a55ea140d99436ea03d67haha
+9:53  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:53  AM - 1is it 1
+9:53  AM - 0wey1
+9:55  AM - wowdsdfhhggfdhgsdffdd 7b70e6be2a55ea140d99436ea03d67haha
+9:55  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:55  AM - 1is it 1
+9:55  AM - 0wey1
+9:55  AM - Row:Array
+9:56  AM - hahassffsgffjgufhfffgffgdgfdfdhgghjghfdfgdfdsgsd 7b70e6be2a55ea140d99436ea03d67haha
+9:56  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:56  AM - 1is it 1
+9:56  AM - 1wey1
+9:56  AM - Row:Array
+(
+    [id] => 1
+    [user_id] => 1
+    [note_group] => Group A
+    [title] => Note 1
+    [backgroundColor] => #e82639
+    [content] => hahassffsgffjgufhfffgffgdgfdfdhgghjghfdfg
+)
+
+9:57  AM - wowdsdfhhggfdhgsdffddd 7b70e6be2a55ea140d99436ea03d67haha
+9:57  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:57  AM - 1is it 1
+9:57  AM - 0wey1
+9:58  AM - 7b70e6be2a55ea140d99436ea03d67
+9:58  AM - wowdsdfhhggfdhgsdffddfdd 7b70e6be2a55ea140d99436ea03d67haha
+9:58  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:58  AM - 1is it 1
+9:58  AM - 0wey1
+9:58  AM - Row:Array
+(
+    [id] => 0
+    [user_id] => 1
+    [note_group] => Group A
+    [title] => Note wow
+    [backgroundColor] => #252323
+    [content] => wowdsdfhhggfdhgsdffdd
+)
+
+9:58  AM - --------------------------------------------------------------
+9:58  AM - HelloWorld 7b70e6be2a55ea140d99436ea03d67haha
+9:58  AM - 7b70e6be2a55ea140d99436ea03d67is it 1
+9:58  AM - 1is it 1
+9:58  AM - 0wey1
+9:58  AM - Row:Array
+(
+    [id] => 0
+    [user_id] => 1
+    [note_group] => Group A
+    [title] => Note wow
+    [backgroundColor] => #252323
+    [content] => wowdsdfhhggfdhgsdffddfdd
+)
+
+9:58  AM - --------------------------------------------------------------
+9:59  AM - HelloWorldf 7b70e6be2a55ea140d99436ea03d67haha
+9:59  AM - Row:Array
+(
+    [id] => 0
+    [user_id] => 1
+    [note_group] => Group A
+    [title] => Note wow
+    [backgroundColor] => #252323
+    [content] => HelloWorld
+)
+
+9:59  AM - ----------------------------------------------------------------------------------------------------------
+9:59  AM - HelloWorldf <?php?> 7b70e6be2a55ea140d99436ea03d67haha
+9:59  AM - Row:Array
+(
+    [id] => 0
+    [user_id] => 1
+    [note_group] => Group A
+    [title] => Note wow
+    [backgroundColor] => #252323
+    [content] => HelloWorldf
+)
+
+9:59  AM - ----------------------------------------------------------------------------------------------------------
+10:03  AM - HelloWorldf <?php?>d 7b70e6be2a55ea140d99436ea03d67haha
+10:03  AM - Row:Array
+(
+    [id] => 0
+    [user_id] => 1
+    [note_group] => Group A
+    [title] => Note wow
+    [backgroundColor] => #252323
+    [content] => HelloWorldf <?php?>
+)
+
+10:03  AM - ----------------------------------------------------------------------------------------------------------
+10:03  AM - HelloWorldf dssgfdg<?php?>d 7b70e6be2a55ea140d99436ea03d67haha
+10:03  AM - Row:Array
+(
+    [id] => 0
+    [user_id] => 1
+    [note_group] => Group A
+    [title] => Note wow
+    [backgroundColor] => #252323
+    [content] => HelloWorldf <?php?>d
+)
+
+10:03  AM - ----------------------------------------------------------------------------------------------------------
+10:04  AM - HelloWorldf dssgfdgs<?php?>d 7b70e6be2a55ea140d99436ea03d67haha
+10:04  AM - Row:Array
+(
+    [id] => 0
+    [user_id] => 1
+    [note_group] => Group A
+    [title] => Note wow
+    [backgroundColor] => #252323
+    [content] => HelloWorldf dssgfdg<?php?>d
+)
+
+10:04  AM - ----------------------------------------------------------------------------------------------------------
+11:43  AM - 7b70e6be2a55ea140d99436ea03d67

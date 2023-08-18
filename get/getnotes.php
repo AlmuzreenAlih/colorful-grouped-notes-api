@@ -25,7 +25,8 @@ include('../connection/config.php');
 session_start();
 $_SESSION['logged_id'] = 1;
 if ($_SESSION['logged_id'] == 1) {
-    $stmt = $conn->prepare("SELECT * FROM notes_table WHERE user_id=?");
+    $stmt = $conn->prepare("SELECT * FROM notes_table 
+                            WHERE user_id=?");
     $stmt->execute([$_SESSION['logged_id']]);
 
     $notes = array();

@@ -34,7 +34,8 @@ function generate_token($length) {
   }
   
 if (isset($email) && isset($password)) {
-    $stmt = $conn->prepare("SELECT * FROM users WHERE email=?");
+    $stmt = $conn->prepare("SELECT * FROM users 
+                            WHERE email=?");
     $stmt->execute([$email]);
 
     if ($stmt->rowCount() === 1) {
